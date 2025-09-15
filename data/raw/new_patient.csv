@@ -1,0 +1,2 @@
+id,birthdate,deathdate,gender,race,ethnicity,marital,state,city,num_encounters,first_encounter,last_encounter,pain_min,pain_max,pain_avg,pain_count,num_medications,total_med_cost,num_conditions,age,is_deceased
+1234567-abcd-8901-efgh-12gf14sgh56i,1983-09-15,,F,white,nonhispanic,single,Massachusetts,Springfield,0,,,0.0,0.0,0.0,0,0,0.0,0,40,0
